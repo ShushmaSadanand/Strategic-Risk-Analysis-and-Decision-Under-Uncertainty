@@ -9,7 +9,7 @@ Welcome to the Strategic Operations and Risk Management division of my portfolio
 
 In fast-moving corporate environments, leadership teams are frequently forced to make high-impact choices using incomplete or skewed datasets. This project breaks down the mathematical and psychological trap of **Survivorship Bias** within Carter Racing's operations, proving how looking *only* at historical failures while ignoring baseline success conditions creates a false sense of security that can completely derail a company.
 
-### 🛠️ Strategic Frameworks & Critical Core Analysis
+### Strategic Frameworks & Critical Core Analysis
 
 #### 1. The Mathematical Trap of Survivorship Bias
 * **The Fragmented Baseline:** Initial historical analysis highlighted 24 competitive entry logs with 7 engine gasket failures (a 29% baseline failure rate). When plotting engine failure events against ambient air temperature, no clear correlation was found within the observed 53°F–82°F range.
